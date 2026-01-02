@@ -29,7 +29,7 @@ using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace PS4MacroAPI
+namespace PS5MacroAPI
 {
     public class Touch
     {

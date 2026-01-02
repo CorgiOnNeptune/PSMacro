@@ -22,7 +22,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-using PS4MacroAPI.Internal;
+using PS5MacroAPI.Internal;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -32,7 +32,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace PS4MacroAPI.Internal
+namespace PS5MacroAPI.Internal
 {
     /// <summary>
     /// Utility class for scripts

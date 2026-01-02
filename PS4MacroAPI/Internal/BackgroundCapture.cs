@@ -30,7 +30,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace PS4MacroAPI.Internal
+namespace PS5MacroAPI.Internal
 {
     // References
     // http://www.developerfusion.com/code/4630/capture-a-screen-shot/

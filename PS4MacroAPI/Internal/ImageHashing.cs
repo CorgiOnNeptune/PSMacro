@@ -30,7 +30,7 @@ using System.Drawing.Imaging;
 using System.Linq;
 using System.Text;
 
-namespace PS4MacroAPI.Internal
+namespace PS5MacroAPI.Internal
 {
     // References
     // https://github.com/jforshee/ImageHashing

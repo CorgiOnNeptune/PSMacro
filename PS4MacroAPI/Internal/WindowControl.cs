@@ -29,7 +29,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace PS4MacroAPI.Internal
+namespace PS5MacroAPI.Internal
 {
     struct Rect
     {

@@ -29,7 +29,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace PS4MacroAPI
+namespace PS5MacroAPI
 {
     /// <summary>
     /// Interface for ScriptHost class

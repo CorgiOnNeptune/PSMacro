@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMacro", "PS4Macro\PSMacro.csproj", "{2AF33C2D-3BCD-467C-BC81-08025C164799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS4MacroAPI", "PS4MacroAPI\PS4MacroAPI.csproj", "{63B26590-8DD4-4534-8E5E-C72750F29934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS4RemotePlayInterceptor", "PS4RemotePlayInterceptor\PS4RemotePlayInterceptor.csproj", "{FEC42432-5B3A-43AC-98BA-68AF71C4AA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS5RemotePlayInterceptor", "PS5RemotePlayInterceptor\PS5RemotePlayInterceptor.csproj", "{6165F8F8-AB5C-4B4C-88BA-D535F8F62851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS5MacroAPI", "PS5MacroAPI\PS5MacroAPI.csproj", "{86CACD34-D33B-483C-B396-9A7F266FFA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF33C2D-3BCD-467C-BC81-08025C164799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF33C2D-3BCD-467C-BC81-08025C164799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF33C2D-3BCD-467C-BC81-08025C164799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF33C2D-3BCD-467C-BC81-08025C164799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B26590-8DD4-4534-8E5E-C72750F29934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B26590-8DD4-4534-8E5E-C72750F29934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B26590-8DD4-4534-8E5E-C72750F29934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B26590-8DD4-4534-8E5E-C72750F29934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC42432-5B3A-43AC-98BA-68AF71C4AA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC42432-5B3A-43AC-98BA-68AF71C4AA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC42432-5B3A-43AC-98BA-68AF71C4AA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC42432-5B3A-43AC-98BA-68AF71C4AA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6165F8F8-AB5C-4B4C-88BA-D535F8F62851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6165F8F8-AB5C-4B4C-88BA-D535F8F62851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6165F8F8-AB5C-4B4C-88BA-D535F8F62851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6165F8F8-AB5C-4B4C-88BA-D535F8F62851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CACD34-D33B-483C-B396-9A7F266FFA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CACD34-D33B-483C-B396-9A7F266FFA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CACD34-D33B-483C-B396-9A7F266FFA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CACD34-D33B-483C-B396-9A7F266FFA74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6FF660-04C4-4D05-9FE8-FCC886ECB0E5}
+	EndGlobalSection
+EndGlobal

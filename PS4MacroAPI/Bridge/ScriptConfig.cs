@@ -28,7 +28,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 
-namespace PS4MacroAPI
+namespace PS5MacroAPI
 {
     /// <summary>
     /// Config for scripts
